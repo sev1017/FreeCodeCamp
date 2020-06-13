@@ -1,1 +1,6 @@
+<h1> Hello World </h1>
+<h2>CAtPhotoApp</h2>
+<p> Hello paragraph</p>
 
+*note: as a convention, all HTML tags are written in lowercase
+  ex: <p></p> and not <P></P>
