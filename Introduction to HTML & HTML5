@@ -1,7 +1,19 @@
-<h1> TOP LEVEL HEADING; A PAGE TITLE</h1>
+<h1> TOP LEVEL HEADING: A PAGE TITLE</h1>
 <p> A paragraph of text. </p>
 <ol>
-  <li>Number one of the list</li>
+  <li>Number one on the list</li>
   <li>Number two</li>
   <li>Number three</li>
+</ol>
+___________
+Output
+TOP LEVEL HEADING: A PAGE TITLE
+A paragraph of text.
+
+  1. Number one on the list
+  2. Number two
+  3. A third item
+ 
+Opening tags look like this: <h1> 
+Closing tags look like this: </h1>
   
